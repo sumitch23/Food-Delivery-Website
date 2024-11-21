@@ -1,8 +1,6 @@
 # Online-food-ordering-app
 Online Food Ordering App like Swiggy and Zomato built using Html, CSS and Pure JavaScript. No frameworks or libraries <br/><br/><br/>
 
-Live Demo => https://shivamjain1.github.io/Online-food-ordering-app  <br/><br/><br/>
-
 ![image](https://user-images.githubusercontent.com/28086341/102119032-855d4280-3e66-11eb-8070-59a73b68a918.png)
 
 <br/>
